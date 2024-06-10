@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-05T17:17:34 BDT" name="Default suite" finished-at="2024-06-05T17:21:47 BDT" duration-ms="252985">
+    <groups>
+    </groups>
+    <test started-at="2024-06-05T17:17:34 BDT" name="Default test" finished-at="2024-06-05T17:21:47 BDT" duration-ms="252985">
+      <class name="qa.testcases.AllUrlWithStatusCodeTest2">
+        <test-method is-config="true" signature="setup()[pri:0, instance:qa.testcases.AllUrlWithStatusCodeTest2@31190526]" started-at="2024-06-05T17:17:34 BDT" name="setup" finished-at="2024-06-05T17:17:40 BDT" duration-ms="5897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="totalLinkTest()[pri:0, instance:qa.testcases.AllUrlWithStatusCodeTest2@31190526]" started-at="2024-06-05T17:17:40 BDT" name="totalLinkTest" finished-at="2024-06-05T17:18:27 BDT" duration-ms="47758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalLinkTest -->
+        <test-method signature="searchUrls()[pri:1, instance:qa.testcases.AllUrlWithStatusCodeTest2@31190526]" started-at="2024-06-05T17:18:27 BDT" name="searchUrls" finished-at="2024-06-05T17:19:30 BDT" duration-ms="63024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchUrls -->
+        <test-method signature="testUrlResponseCodes()[pri:2, instance:qa.testcases.AllUrlWithStatusCodeTest2@31190526]" started-at="2024-06-05T17:19:30 BDT" name="testUrlResponseCodes" finished-at="2024-06-05T17:21:46 BDT" duration-ms="136010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUrlResponseCodes -->
+        <test-method signature="removeDuplicateResponseCodes()[pri:3, instance:qa.testcases.AllUrlWithStatusCodeTest2@31190526]" started-at="2024-06-05T17:21:46 BDT" name="removeDuplicateResponseCodes" finished-at="2024-06-05T17:21:46 BDT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeDuplicateResponseCodes -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.testcases.AllUrlWithStatusCodeTest2@31190526]" started-at="2024-06-05T17:21:46 BDT" name="tearDown" finished-at="2024-06-05T17:21:47 BDT" duration-ms="245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- qa.testcases.AllUrlWithStatusCodeTest2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
